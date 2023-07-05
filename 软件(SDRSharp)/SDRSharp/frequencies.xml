@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfMemoryEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>ZSNB APP</Name>
+    <GroupName>ATC</GroupName>
+    <Frequency>125450000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>6000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>ZSPD</Name>
+    <GroupName>ATC</GroupName>
+    <Frequency>125850000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>6000</FilterBandwidth>
+  </MemoryEntry>
+</ArrayOfMemoryEntry>

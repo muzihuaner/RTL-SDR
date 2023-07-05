@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<MemoryEntryNewSkipAndRangeFrequency xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SkipFrequencyArray />
+  <FrequencyRange />
+  <NewFrequency />
+  <LastSizeScreen>
+    <Width>0</Width>
+    <Height>0</Height>
+  </LastSizeScreen>
+  <LastLocationScreen>
+    <X>0</X>
+    <Y>0</Y>
+  </LastLocationScreen>
+  <LastSizeMultiSelect>
+    <Width>0</Width>
+    <Height>0</Height>
+  </LastSizeMultiSelect>
+  <LastLocationMultiSelect>
+    <X>0</X>
+    <Y>0</Y>
+  </LastLocationMultiSelect>
+</MemoryEntryNewSkipAndRangeFrequency>

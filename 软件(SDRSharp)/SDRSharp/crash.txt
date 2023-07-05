@@ -1,0 +1,13 @@
+Method not found: '!!0[] System.Array.Empty()'.
+at SDRSharp.Radio.dll.RdsDumpGroups.AnalyseFrames  (IL offset: 0xffffffff)
+at SDRSharp.Radio.dll.SyndromeDetector.Clock  (IL offset: 0x128)
+at SDRSharp.Radio.dll.RdsDecoder.Process  (IL offset: 0x212)
+at SDRSharp.Radio.dll.Vfo.ProcessBuffer  (IL offset: 0x214)
+at SDRSharp.exe.MainForm.ProcessBuffer  (IL offset: 0x57)
+at SDRSharp.Radio.dll.StreamControl.ProcessIQ  (IL offset: 0x18)
+at SDRSharp.Radio.dll.StreamControl.DSPProc  (IL offset: 0x5b)
+at mscorlib.dll.ThreadHelper.ThreadStart_Context  (IL offset: 0x14)
+at mscorlib.dll.ExecutionContext.RunInternal  (IL offset: 0x70)
+at mscorlib.dll.ExecutionContext.Run  (IL offset: 0x0)
+at mscorlib.dll.ExecutionContext.Run  (IL offset: 0x2b)
+at mscorlib.dll.ThreadHelper.ThreadStart  (IL offset: 0x8)
