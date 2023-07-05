@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<MemoryEntryNewSkipAndRangeFrequency xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SkipFrequencyArray />
+  <FrequencyRange />
+  <NewFrequency>
+    <MemoryEntryNewFrequency>
+      <Frequency>361200000</Frequency>
+      <CenterFrequency>361200000</CenterFrequency>
+      <Activity>10.2630157</Activity>
+    </MemoryEntryNewFrequency>
+    <MemoryEntryNewFrequency>
+      <Frequency>361475000</Frequency>
+      <CenterFrequency>361200000</CenterFrequency>
+      <Activity>3.576008</Activity>
+    </MemoryEntryNewFrequency>
+    <MemoryEntryNewFrequency>
+      <Frequency>361775000</Frequency>
+      <CenterFrequency>361200000</CenterFrequency>
+      <Activity>27.8276863</Activity>
+    </MemoryEntryNewFrequency>
+    <MemoryEntryNewFrequency>
+      <Frequency>361975000</Frequency>
+      <CenterFrequency>361200000</CenterFrequency>
+      <Activity>3.81600976</Activity>
+    </MemoryEntryNewFrequency>
+    <MemoryEntryNewFrequency>
+      <Frequency>362025000</Frequency>
+      <CenterFrequency>361200000</CenterFrequency>
+      <Activity>3.74100924</Activity>
+    </MemoryEntryNewFrequency>
+    <MemoryEntryNewFrequency>
+      <Frequency>362225000</Frequency>
+      <CenterFrequency>361200000</CenterFrequency>
+      <Activity>1.14000034</Activity>
+    </MemoryEntryNewFrequency>
+  </NewFrequency>
+  <LastSizeScreen>
+    <Width>0</Width>
+    <Height>0</Height>
+  </LastSizeScreen>
+  <LastLocationScreen>
+    <X>0</X>
+    <Y>0</Y>
+  </LastLocationScreen>
+  <LastSizeManual>
+    <Width>620</Width>
+    <Height>200</Height>
+  </LastSizeManual>
+  <LastLocationManual>
+    <X>587</X>
+    <Y>513</Y>
+  </LastLocationManual>
+</MemoryEntryNewSkipAndRangeFrequency>
