@@ -1,4 +1,0 @@
-未将对象引用设置到对象的实例。
-   在 SDRSharp.MainForm.InitializeGUI()
-   在 SDRSharp.MainForm..ctor()
-   在 SDRSharp.Program.Main()
